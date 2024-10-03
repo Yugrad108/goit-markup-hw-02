@@ -1,5 +1,5 @@
 body {
-    font-family: "roboto", sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #fff;
 }
@@ -93,6 +93,7 @@ a {
     line-height: 111%;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize
     color: #2e2f42;
 }
 
