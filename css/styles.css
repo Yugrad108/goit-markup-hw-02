@@ -60,11 +60,7 @@ a {
     color: #404bbf;
 }
 
-.page-footer {
-    background-color: #2e2f42;
-}
-
-.hero {
+.page-footer, .hero {
     background-color: #2e2f42;
 }
 
@@ -84,6 +80,11 @@ a {
     color: #fff;    
     background-color: #4d5ae5;  
     cursor: pointer;    
+}
+
+.hero-button:hover,
+.hero-button:focus {
+    background-color: #404bbf;
 }
 
 .features {
